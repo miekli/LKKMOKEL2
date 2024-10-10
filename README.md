@@ -5,3 +5,5 @@ hanya memberikan database dan code yang berisikan code backend dan frontend
 bisa di running menggunakan :
 1. visualstudicode
 2. database tool (ex : heidi.sql, dll)
+
+create new database wajib memiliki nama sesuai code path /proses/connect.php yakni : db_elpaper
