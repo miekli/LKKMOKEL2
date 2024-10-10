@@ -1,4 +1,4 @@
-hasil hosting website (website hosting yang digunakan hanya bisa dibuka dengan laptop (wajib zoom out layar menjadi 80% untuk tampilan yang nyaman):
+hasil hosting website (website hosting yang digunakan hanya bisa dibuka dengan laptop (wajib zoom out website menjadi 80% untuk tampilan yang nyaman):
 http://elpaper.rf.gd/ 
 
 hanya memberikan database dan code yang berisikan code backend dan frontend
