@@ -65,15 +65,9 @@ while ($record = mysqli_fetch_array($query)) {
                                             <label for="nama" class="form-label">Nama</label>
                                             <input type="text" class="form-control" id="nama" placeholder="Masukkan nama" value="<?php echo $row['nama'] ?> " readonly>
                                         </div>
-                                        <div class="row">
-                                            <div class="col-md-6 mb-3">
-                                                <label for="tempat" class="form-label">NIK</label>
-                                                <input type="text" class="form-control" id="tempat" placeholder="Masukkan tempat lahir" value="<?php echo $row['NIK'] ?> " readonly>
-                                            </div>
-                                            <div class="col-md-6 mb-3">
-                                                <label for="tanggal" class="form-label">Jenis Kelamin</label>
-                                                <input type="text" class="form-control" id="tanggal" value="<?php echo $row['jenis'] ?> " readonly>
-                                            </div>
+                                        <div class="mb-3">
+                                            <label for="tempat" class="form-label">NIK</label>
+                                            <input type="text" class="form-control" id="tempat" placeholder="Masukkan tempat lahir" value="<?php echo $row['NIK'] ?> " readonly>
                                         </div>
                                         <!-- Tempat dan Tanggal -->
                                         <div class="row">
