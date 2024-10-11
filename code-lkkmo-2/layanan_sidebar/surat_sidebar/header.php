@@ -6,7 +6,7 @@
         </div>
         <div class="judul">
             <h2>Desa Sabah Balau</h2>
-            <p>Website Penyewaan Alat dan Pengadaan Barang</p>
+            <p>Kec.Tanjung Bintang, Kab.Lampung Selatan, Prov.Lampung</p>
         </div>
     </div>
 </div>
